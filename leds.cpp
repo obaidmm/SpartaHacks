@@ -1,6 +1,4 @@
-#include "/Users/obaidmohiuddin/Desktop/fwwasm/include/fwwasm.h"
-#include <stdio.h>
-
+#include "fwwasm.h"
 
 #define MAX_LOOPS 20
 #define NUM_LEDS 7
