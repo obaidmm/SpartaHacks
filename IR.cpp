@@ -66,6 +66,7 @@ int main() {
     // Continuous loop to handle IR events
     while (1) {
         handleIREvents();  // Continuously process IR events
+        waitms(3);
     }
 
     return 0; // This part will likely never be reached
